@@ -85,7 +85,7 @@ Temporary Items
 ### clion ###
 .idea/
 cmake-build-debug/
-.CMakeLists.txt
+CMakeLists.txt
 
 
 ## ahmad's utility files ##

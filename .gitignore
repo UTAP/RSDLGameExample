@@ -33,11 +33,6 @@
 *.out
 *.app
 
-### IDEs ###
-.idea/
-cmake-build-debug/
-
-
 ### Linux ###
 
 *~
@@ -84,3 +79,14 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+
+### clion ###
+.idea/
+cmake-build-debug/
+.CMakeLists.txt
+
+
+## ahmad's utility files ##
+g.sh

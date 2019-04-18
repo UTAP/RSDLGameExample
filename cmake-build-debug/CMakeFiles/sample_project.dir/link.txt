@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/sample_project.dir/main.cpp.o CMakeFiles/sample_project.dir/rsdl.cpp.o CMakeFiles/sample_project.dir/Circle.cpp.o CMakeFiles/sample_project.dir/Game.cpp.o  -o sample_project 
